@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Home
+title: "Dralle Coaching - Gemeinsam Wege suchen, Lösungen finden, Ziele erreichen"
+quote: Verantwortlich ist man nicht nur für das, was man tut, sondern auch für das, was man nicht tut.
+quote-author: Laotse
 ---
 
 # Dralle Coaching

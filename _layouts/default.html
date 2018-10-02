@@ -13,7 +13,14 @@
   <body>
 	<div id="stripe-top"></div>
 	<img id="banner" src="/assets/images/header.png"/>
+	
 	<div class="container">
+		<div class="grid_9" id="zitat">
+			<q>{{ page.quote }}</q>
+			<br>
+			<strong>{{ page.quote-author }}</strong>
+		</div>	
+	
 		{{ content }}
 	</div>
   </body>

@@ -12,3 +12,14 @@
 	height:15em;
 	object-fit:cover;
 }
+q:after {
+	content: '«';
+}
+q:before {
+	content: '»';
+}
+#zitat {
+    text-align: right;
+    font-size: 10pt;
+    font-style: italic;
+}
