@@ -5,16 +5,33 @@
     <title>{{ page.title }}</title>
 	<link rel="stylesheet" href="/assets/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO">
     <link rel="stylesheet" href="/assets/css/styles.css">
-	
+
 	<script src="/assets/js/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
 	<script src="/assets/js/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49></script>
 	<script src="/assets/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"></script>
-	
+
 	<meta name="keywords" content="Dralle,Braunschweig,Heilpraktikerin,Psychotherapie,Heilpraktiker für Psychotherapie,Heilpraktikerin für Psychotherapie,Coaching,Autismus,Asperger,Autismusspektrumsstörung,Raucherentwöhnung,Gewichtsreduktion,Burn-out,Bore-out,Depressionen,Hypnose,Hypnotherapie,Psychotherapie,Angst,Ängste,Zwang,Zwänge,Prüfungsangst,Systemische Beratung,Gesprächstherapie,Familientherapie" />
 	<meta name="description" content="Heilpraktikerin für Psychotherapie in Braunschweig mit den Schwerpunkten systemisches Coaching und Hypnotherapie unterstützt Sie auf Ihrem Weg zu Ihrem persönlichen Ziel." />
   </head>
   <body>
-	<div id="stripe-top"></div>
-    {{ content }}
+    <div class="jumbotron jumbotron-fluid">
+      <div class="container">
+        <div class="row">
+          <div class="col-9">
+            <h1 class="display-4">Hallo!</h1>
+            <p class="lead">Ich bin Heilpraktikerin für Psychotherapie</p>
+          </div>
+          <div class="col-3">
+            <img src="/assets/images/anita_circle.png"/>
+            <div class="mx-auto">
+              Anita Dralle
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="container">
+        {{ content }}
+    </div>
   </body>
 </html>
