@@ -5,6 +5,23 @@ quote: Verantwortlich ist man nicht nur für das, was man tut, sondern auch für
 quote-author: Laotse
 ---
 
+<div class="jumbotron jumbotron-fluid">
+  <div class="container">
+    <div class="row">
+      <div class="col-9">   
+        <h1 class="display-4">Hallo!</h1>
+        <p class="lead">Ich bin Heilpraktikerin für Psychotherapie</p>
+      </div>  
+      <div class="col-3">   
+        <img src="/assets/images/anita_circle.png"/>
+        <p>
+          Anita Dralle
+        </p>
+      </div>     
+    </div>
+  </div>
+</div>
+
 # Dralle Coaching
 
 Herzlich willkommen bei mir!

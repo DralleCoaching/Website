@@ -3,8 +3,8 @@
   <head>
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="/assets/css/styles.css">
 	<link rel="stylesheet" href="/assets/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO">
+    <link rel="stylesheet" href="/assets/css/styles.css">
 	
 	<script src="/assets/js/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
 	<script src="/assets/js/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49></script>
@@ -15,16 +15,6 @@
   </head>
   <body>
 	<div id="stripe-top"></div>
-	<img id="banner" src="/assets/images/header.png"/>
-	
-	<div class="container">
-		<div class="grid_9" id="zitat">
-			<q>{{ page.quote }}</q>
-			<br>
-			<strong>{{ page.quote-author }}</strong>
-		</div>	
-	
-		{{ content }}
-	</div>
+    {{ content }}
   </body>
 </html>

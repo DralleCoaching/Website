@@ -2,8 +2,8 @@
 ---
 #stripe-top {
     width: 100%;
-    height: 60px;
-    background-color: #FBB901;
+    height: 25px;
+    background-color: #ff9900;
     margin: 0;
 }
 
@@ -22,4 +22,10 @@ q:before {
     text-align: right;
     font-size: 10pt;
     font-style: italic;
+}
+
+.jumbotron-fluid {
+  color: white;
+  background: #ff9900 url("/assets/images/header.jpg") center;
+  background-size: cover;
 }
