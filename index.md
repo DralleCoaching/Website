@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Dralle Coaching
 
-You can use the [editor on GitHub](https://github.com/DralleCoaching/Website/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+_Wer kennt sie nicht?_ Die Stolpersteine, die Einbahnstraßen, die Weggabelungen, die das Leben als Überraschung für uns bereit hält. Hinter jeder Kurve kann uns ein Hindernis erwarten. Manchmal kann ein Richtungswechsel, eine Kurskorrektur oder eine Veränderung der Perspektive helfen.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Als Heilpraktikerin für Psychotherapie begleite ich Sie gerne auf Ihrem persönlichen und individuellen Weg. Lernen Sie auf den folgenden Seiten die Methoden kennen, mit denen ich Sie unterstützen kann. Der nächste Schritt ist dann das persönliche Gespräch. Nehmen Sie Kontakt zu mir auf und vereinbaren Sie einen Termin für ein erstes Gespräch.
 
 ### Markdown
 
